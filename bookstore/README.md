@@ -1,0 +1,2 @@
+src下的email-config.properties文件的username、password、from分别为注册时使用的发邮件的账号，
+如需正常使用，务必添加这三个数据
